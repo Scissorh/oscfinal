@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.logo{
+    width: 8%;
+    height: 7%;
+}
+
+.card-img-top{
+    width: 100%;
+    height: 200px;
+    object-fit: contain;
+}
+.tomi{
+    /* display: flex!important; */
+    justify-content: flex-end;
+}
+.footer .para{
+    color: red!important;
+}
